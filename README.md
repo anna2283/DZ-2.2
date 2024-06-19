@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/iv3f28leapr0o4t1?svg=true)](https://ci.appveyor.com/project/anna2283/dz-2-2)
+[![Java CI with Gradle](https://github.com/anna2283/DZ-2.2/actions/workflows/gradle.yml/badge.svg)](https://github.com/anna2283/DZ-2.2/actions/workflows/gradle.yml)
